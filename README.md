@@ -1,5 +1,10 @@
 # Photography Website
 
+## Link Deploy
+```
+prakerja-deploy-inky.vercel.app
+```
+
 ## Project setup
 ```
 npm install
